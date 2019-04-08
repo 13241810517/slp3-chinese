@@ -12,7 +12,7 @@
 
 3. `git remote -v`观察自己的远程的地址，如果只有`origin的fetch和pull`两个,则添加upstream
 
-   `git remote add upstream git@github.com:ed3book-chinese/ed3book-chinese.git`
+   `git remote add upstream git@github.com:slp3-chinese/slp3-chinese.git`
 
    ![](images/添加upstream.png)
 
